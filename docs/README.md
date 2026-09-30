@@ -9,15 +9,12 @@
 ### Steps to Run
 ```bash
 # 1. Clone the repository
-git clone https://gitlab.cs.washington.edu/cse340-26sp-students/as-final-paulrip-ashani.git
+git clone https://github.com/Paul-Rip/UW-Navigator.git
 
-# 2. Navigate to the app folder
-cd "UW Navigator"
-
-# 3. Install dependencies
+# 2. Install dependencies
 flutter pub get
 
-# 4. Run the app
+# 3. Run the app
 flutter run
 ```
 
